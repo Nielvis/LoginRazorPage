@@ -15,14 +15,4 @@ O projeto permite que o usuário se registre, tenha suas informações salvas em
 
 ⚠️ Validação de Entradas — mensagens de erro personalizadas caso o usuário informe dados inválidos.
 
-🏗️ Tecnologias Utilizadas
 
-ASP.NET Core Razor Pages
-
-C#
-
-Entity Framework Core (para integração com o banco de dados)
-
-SQL Server (ou outro banco configurado)
-
-HTML5 / CSS3 / Bootstrap
